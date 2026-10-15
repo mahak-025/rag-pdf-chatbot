@@ -80,7 +80,7 @@ rag-pdf-chatbot/
 
 ## Screenshots
 
-![Chat UI](screenshots/chat.png)
+![Chat UI](screenshots/placeholder.txt/chat.png)
 ![Chat UI](screenshots/chat1.png)
 
 ## Future Improvements
